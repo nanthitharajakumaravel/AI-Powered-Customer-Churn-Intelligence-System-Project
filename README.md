@@ -16,9 +16,9 @@ By analyzing customer demographics, subscription details, service usage, and pay
 - **Actionable Recommendations:** Suggests retention strategies for business stakeholders.
 
 ## Technologies Used
-- **Language:** Python 3.x  
+- **Language:** Python 
 - **Libraries:** pandas, numpy, matplotlib, scikit-learn  
-- **Tools:** Jupyter Notebook, GitHub  
+  
 
 ## Workflow
 1. **Data Loading:** Load and inspect `Telco_customer_churn.xlsx`.
